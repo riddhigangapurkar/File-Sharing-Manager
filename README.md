@@ -30,5 +30,7 @@ Open in browser: http://localhost:8080/file-sharing-manager
 
 
 
-<img width="1920" height="922" alt="3" src="https://github.com/user-attachments/assets/e482c829-f3e7-4f96-a0b1-212b3c35cf83" />
 
+![3](https://github.com/user-attachments/assets/d9de58e0-d1e0-4149-99be-0b3268c4aeba)
+
+![4](https://github.com/user-attachments/assets/8b332191-8726-4f5a-b2f3-d2a586cfd0a9)
