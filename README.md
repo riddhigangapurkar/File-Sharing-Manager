@@ -46,18 +46,16 @@ Built using **Java (Servlets + JDBC), MySQL**, and **HTML/CSS/JS**.
 ---
 
 ## 🖼 Screenshots
+<img width="1920" height="928" alt="1" src="https://github.com/user-attachments/assets/1a164629-ad94-49dd-a64d-da8d41522957" />
+<img width="1919" height="920" alt="2" src="https://github.com/user-attachments/assets/6c9f32bc-b5fe-4ba0-a9d3-94fd65e01aea" />
 
-<img width="1920" height="928" alt="Screenshot 1" src="https://github.com/user-attachments/assets/f9468cd3-8ef5-4be2-8552-641265775883" />
 
-<img width="1919" height="920" alt="Screenshot 2" src="https://github.com/user-attachments/assets/b1db288a-d7d1-4ea2-a242-152a56a11a1d" />
+![3](https://github.com/user-attachments/assets/9b44df94-fac4-4b6c-9c63-1738a79bb5ef)
+![4](https://github.com/user-attachments/assets/7813f399-5b16-4cec-bbf1-d79321c4e89b)
 
-<img width="1920" height="928" alt="Screenshot 3" src="https://github.com/user-attachments/assets/d9de58e0-d1e0-4149-99be-0b3268c4aeba" />
 
-<img width="1920" height="928" alt="Screenshot 4" src="https://github.com/user-attachments/assets/8b332191-8726-4f5a-b2f3-d2a586cfd0a9" />
-
----
-
-## 📂 Project Structure
+## 📂 Project Structur
+e
 
 ```
 file-sharing-manager/
