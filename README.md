@@ -23,10 +23,10 @@ Built using **Java (Servlets + JDBC), MySQL**, and **HTML/CSS/JS**.
    - Apache Tomcat 9+  
 
 2. **Clone the repository**:
-   ```bash
+ `bash
    git clone https://github.com/your-username/file-sharing-manager.git
    cd file-sharing-manager
-````
+
 
 3. **Configure database**:
 
@@ -34,16 +34,15 @@ Built using **Java (Servlets + JDBC), MySQL**, and **HTML/CSS/JS**.
 
 4. **Build and deploy**:
 
-   ```bash
+  bash
    mvn clean install
-   ```
+ 
 
    * Deploy the generated `.war` file to Tomcat.
 
 5. **Run the application**:
    Open in browser: [http://localhost:8080/file-sharing-manager](http://localhost:8080/file-sharing-manager)
 
----
 
 ## 🖼 Screenshots
 <img width="1920" height="928" alt="1" src="https://github.com/user-attachments/assets/1a164629-ad94-49dd-a64d-da8d41522957" />
@@ -57,7 +56,7 @@ Built using **Java (Servlets + JDBC), MySQL**, and **HTML/CSS/JS**.
 ## 📂 Project Structur
 e
 
-```
+
 file-sharing-manager/
 │
 ├── src/                     # Java source files (Servlets, etc.)
@@ -65,9 +64,9 @@ file-sharing-manager/
 ├── db.properties            # Database configuration
 ├── pom.xml                  # Maven configuration
 └── README.md                # Project documentation
-```
 
----
+
+
 
 ## 📌 Technologies Used
 
@@ -76,7 +75,4 @@ file-sharing-manager/
 * **HTML / CSS / JavaScript**
 * **Apache Tomcat**
 
----
 
-
-```
